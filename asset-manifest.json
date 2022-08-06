@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/prussenconstruction.github.io/static/css/main.bcf9a7e2.css",
-    "main.js": "/prussenconstruction.github.io/static/js/main.7a847a8e.js",
-    "static/js/787.308fa7c6.chunk.js": "/prussenconstruction.github.io/static/js/787.308fa7c6.chunk.js",
+    "main.js": "/prussenconstruction.github.io/static/js/main.b984ffb4.js",
     "index.html": "/prussenconstruction.github.io/index.html",
     "main.bcf9a7e2.css.map": "/prussenconstruction.github.io/static/css/main.bcf9a7e2.css.map",
-    "main.7a847a8e.js.map": "/prussenconstruction.github.io/static/js/main.7a847a8e.js.map",
-    "787.308fa7c6.chunk.js.map": "/prussenconstruction.github.io/static/js/787.308fa7c6.chunk.js.map"
+    "main.b984ffb4.js.map": "/prussenconstruction.github.io/static/js/main.b984ffb4.js.map"
   },
   "entrypoints": [
     "static/css/main.bcf9a7e2.css",
-    "static/js/main.7a847a8e.js"
+    "static/js/main.b984ffb4.js"
   ]
 }
